@@ -100,25 +100,21 @@ above script installs Apache Web Server
 
 now, you can browse to http://127.0.0.1:4567
 
-![Image of ???]
-(resources/local-webserver.png)
+![Image of ???](resources/local-webserver.png)
 
 ### Vagrant Share
 
 Sharing your Vagrant environment
 
 Vagrant share setting up when running vagrant share command
-![Image of ???]
-(resources/vagrant-share-console.png)
+![Image of ???](resources/vagrant-share-console.png)
 
 The Vagrant Share website:
 
-![Image of ???]
-(resources/vagrant-share.png)
+![Image of ???](resources/vagrant-share.png)
 
 Browse to the shared vagrant URL link on browser:
 
-![Image of ???]
-(resources/vagrant-share-webserver.png)
+![Image of ???](resources/vagrant-share-webserver.png)
 
 
